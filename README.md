@@ -13,12 +13,20 @@ Summary of data 2012-13
 Timeline
 --------
 
-2013-07-24  MC -> MT  RTI request lodged by email
+2013-07-24  MC -> MT  RTI request lodged by 
+
 2013-07-24  MT -> MC  Initial response email (awaiting outcome)
+
 2013-07-30  MT -> MC  RTI request declined
+
 2013-07-30  MC -> MT  Request for review
+
 2013-07-31  MT -> MC  RTI request approved
+
 2013-08-15  Meeting   Meeting with Metro Tasmania
+
 2013-08-15  Info      Service Contracat 1 Jan 2009 - 31 Dec 2013 p36
+
 2013-08-15  Info      Performance report "statewide information" 
+
 2013-08-15  Info      Performance report % departures, % arrivals Hobart/Launceston/Burnie
